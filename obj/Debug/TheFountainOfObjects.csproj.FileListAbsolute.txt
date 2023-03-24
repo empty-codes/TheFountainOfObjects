@@ -1,0 +1,7 @@
+C:\Users\etimothy\source\repos\TheFountainOfObjects\bin\Debug\TheFountainOfObjects.exe.config
+C:\Users\etimothy\source\repos\TheFountainOfObjects\bin\Debug\TheFountainOfObjects.exe
+C:\Users\etimothy\source\repos\TheFountainOfObjects\bin\Debug\TheFountainOfObjects.pdb
+C:\Users\etimothy\source\repos\TheFountainOfObjects\obj\Debug\TheFountainOfObjects.csproj.AssemblyReference.cache
+C:\Users\etimothy\source\repos\TheFountainOfObjects\obj\Debug\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\etimothy\source\repos\TheFountainOfObjects\obj\Debug\TheFountainOfObjects.exe
+C:\Users\etimothy\source\repos\TheFountainOfObjects\obj\Debug\TheFountainOfObjects.pdb
