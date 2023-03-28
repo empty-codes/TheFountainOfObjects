@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4133C294-E5EE-4496-B86A-FB99DCF863D6}</ProjectGuid>
+    <ProjectGuid>{25374449-D717-4AAB-812E-7A365936612D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TheFountainOfObjects</RootNamespace>
     <AssemblyName>TheFountainOfObjects</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Game.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
