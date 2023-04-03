@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33328.57
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFountainOfObjects", "TheFountainOfObjects.csproj", "{25374449-D717-4AAB-812E-7A365936612D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF", "..\TF\TF.csproj", "{5025BB13-B3E5-4241-A254-5C8D2C0F38AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{25374449-D717-4AAB-812E-7A365936612D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25374449-D717-4AAB-812E-7A365936612D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25374449-D717-4AAB-812E-7A365936612D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5025BB13-B3E5-4241-A254-5C8D2C0F38AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5025BB13-B3E5-4241-A254-5C8D2C0F38AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5025BB13-B3E5-4241-A254-5C8D2C0F38AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5025BB13-B3E5-4241-A254-5C8D2C0F38AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
